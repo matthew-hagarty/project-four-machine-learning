@@ -26,6 +26,7 @@ Methods Explored:
     -Multiple Linear Regression: multiple variables 
     -Polynomial Regression: Relationship between variables is nonlinear 
     -Assessed model performance using Mean Squared Error (MSE)
+    
 Method Evaluations:
   1. Logistic Regression model: Not suitable 
         -Dependent Variables/Features 
