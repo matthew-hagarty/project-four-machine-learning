@@ -57,5 +57,6 @@ Future Improvements:
     -People don’t vote along strict demographic lines
     -Options include: polling data, prior vote pattern by state
 
-      
+Tableau for result:   https://public.tableau.com/app/profile/matthew.hagarty/viz/Election-Predicting-ModelResults/2020SwingStatesPredictedPoly4?publish=yes
+
 
