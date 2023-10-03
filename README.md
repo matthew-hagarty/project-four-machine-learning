@@ -5,7 +5,14 @@ Objective:
   
 Data Sources:
   Census Data: Collected data from the Census Bureau
-  Election Results: 2000 to 2020 Election Results: dataverse.harvard.edu
+          -https://www2.census.gov/programs-surveys/popest/datasets/2000-2008/counties/asrh/
+          -https://www2.census.gov/programs-surveys/popest/datasets/2010-2016/counties/asrh/
+          -https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-detail.html
+          -keys for data interpretation:
+                -https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2000-2008/cc-est2008-alldata.pdf
+                -https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2016/cc-est2016-alldata.pdf
+                -https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2020-2022/cc-est2022-alldata.pdf
+  Election Results: 2000 to 2020 Election Results: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 
 Data Processing:
     Scale the data by using converting to percentage values
@@ -58,5 +65,7 @@ Future Improvements:
     -Options include: polling data, prior vote pattern by state
 
 Tableau for result:   https://public.tableau.com/app/profile/matthew.hagarty/viz/Election-Predicting-ModelResults/2020SwingStatesPredictedPoly4?publish=yes
+
+Presentation slideshow: https://docs.google.com/presentation/d/15Iu2PVlUxrQJX3p2aFtWfxWrqmdIrDUX5FctpJundis/edit?usp=sharing
 
 
